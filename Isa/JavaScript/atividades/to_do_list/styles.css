@@ -1,0 +1,14 @@
+<style>
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+        .task-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .task-item button {
+            margin-left: 10px;
+        }
+    </style>
